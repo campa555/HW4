@@ -2,7 +2,7 @@
 
 this is how the application looks:
 
-![](ScreenShots/V1.png)
-![](ScreenShots/V2.png)
+![](Calculator/ScreenShots/V1.png)
+![](Calculator/ScreenShots/V2.png)
 
 All of the buttons are functional.
